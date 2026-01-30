@@ -2,13 +2,13 @@
 ## Equipe 1 - DeepResearch
 | Nome                              | Matrícula     | Descrição da atividade                                                                                   |
 |----------------------------------|---------------|-----------------------------------------------------------------------------------------------------------|
-| Álex Santos Alencar              | 202300061518  |                                        |
+| Álex Santos Alencar              | 202300061518  | Diagnóstico e análise do fluxo atual de desenvolvimento.                      |
 | Ellen Karolliny dos Santos       | 202300114326  | Definição de automação e seus tipos.                           |
 | Gabriel Luiz Santos Gama Barreto | 202300114335  | Diagnóstico e análise de automação no repositório do DeepResearch. |
 | Gabriel Ramos de Carvalho        | 202300061920  | Diagnóstico e análise dos riscos de regressão do projeto.                  |
 | João Andryel Santos Menezes      | 202300061652  | Diagnóstico e análise de automação no repositório.              |
-| Larissa Batista dos Santos       | 202300061705  |                                        |
-| Paloma dos Santos                | 202300061723  |                                        |
+| Larissa Batista dos Santos       | 202300061705  | Diagnóstico e análise de automação no repositório.            |
+| Paloma dos Santos                | 202300061723  | Diagnóstico e análise dos gargalos manuais e limitações operacionais.                 |
 | Rauany Ingrid Santos de Jesus    | 202300061760  | A importância e as vantagens da automação e organização do documento de entrega.  |
 
 ### DeepResearch - https://github.com/Alibaba-NLP/DeepResearch (Repositório do modelo analisado)
