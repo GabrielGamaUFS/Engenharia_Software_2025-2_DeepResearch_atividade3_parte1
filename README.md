@@ -14,7 +14,7 @@
 ### DeepResearch - https://github.com/Alibaba-NLP/DeepResearch (Repositório do modelo analisado)
 
 ## Vídeo de apresentação dos resultados e síntese do projeto
-### [Acessar vídeo](https://google.com)<br>
+### [Acessar vídeo](https://drive.google.com/file/d/16-FSiWnY2sPF4_BGmUp_7IoLqNMQBNzv/view?usp=drivesdk)<br>
 
 ## 📚 Sobre o Tutorial
 ---
